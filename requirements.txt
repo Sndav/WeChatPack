@@ -4,7 +4,7 @@ chardet==3.0.4
 confusable-homoglyphs==3.2.0
 defusedxml==0.5.0
 diff-match-patch==20181111
-Django==2.2.4
+Django==2.2.8
 django-allauth==0.38.0
 django-appconf==1.0.2
 django-crispy-forms==1.7.2
